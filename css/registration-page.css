@@ -1,0 +1,11 @@
+body{
+  padding-top: 100px;
+  margin: auto;
+  width: 70%;
+}
+
+img#Logo{
+  margin-top: -10px;
+  height: 40px;
+  width: auto;
+}
